@@ -24,7 +24,7 @@ Com o servidor iniciado será possível em qualquer browser visitar o endereço
 
 e dando tudo certo você poderá ver uma simples implementação do famoso jogo da cobrinha.
 
-Para para o servidor volte ao terminal e presione `control+c`, também conhecido como `^-C`
+Para parar o servidor volte ao terminal e presione `control+c`, também conhecido como `^-C`
 Para remover o container da memória digite o comando
 
 ```
